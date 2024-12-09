@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeni
 - 👀 I’m interested in learning new technologies in the field of computer science
-- 🌱 I’m currently learning ML and AI algorithms
+
 
 
 <!---
